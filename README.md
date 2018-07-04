@@ -42,4 +42,4 @@ These diagrams are models of how this project should work.
  
 # Authorship
  
- All bugs or problems should be sent to [Devon Bray](mailto:dev@esologic.com).
+All of the work in any of the previously linked repos was completed by Devon Bray as part of an engineering residency at Hitchcock Management. 
